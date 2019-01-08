@@ -8,3 +8,15 @@ with latest openssl
 headers-more module
 pcre
 zlib
+
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type">
+<title>Jangotek</title>
+<meta content="Jango" name="author">
+</head>
+<body>
+<a href="https://nginx.org/" target="_blank">nginx.org</a>
+</body>
+</html>
