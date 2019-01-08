@@ -23,3 +23,7 @@ chkconfig nginx on
 
 Run nginx:
 service nginx start
+
+Check version:
+nginx -V
+
